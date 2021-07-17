@@ -11,9 +11,3 @@
 
 # Contact
 Krzx#1200 - Discord </br>
-
-<p align="center">
-  <a href="https://github.com/krzxx">
-    <img src="https://cdn.discordapp.com/attachments/865576078164099102/865875262495129610/krzxbanner.png"/>
-     </a>
-</p>
