@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/krzxx">
+  <a href="https://github.com/3cn">
     <img src="https://discord.c99.nl/widget/theme-4/792727174456016918.png"/>
      </a>
 </p>
