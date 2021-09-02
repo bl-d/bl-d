@@ -10,4 +10,4 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=3cn&show_icons=true&theme=dark)
 
 # Contact
-Krzx#1337 - Discord </br>
+swatted#0001 - Discord </br>
