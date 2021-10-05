@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://punishment.one">
-    <img src="https://discord.c99.nl/widget/theme-4/317067559989936129.png"/>
+    <img src="https://discord.c99.nl/widget/theme-1/808860677661523988.png"/>
      </a>
 </p>
 
