@@ -1,5 +1,12 @@
+<h2 align="center">Stats</h2>
+<a href="https://github.com/krzxw">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=krzxw" alt="Profile Views Count">
+  </p>
+</a>
+
 <p align="center">
-  <a href="http://punishment.one">
+  <a href="http://discord.com">
     <img src="https://discord.c99.nl/widget/theme-1/808860677661523988.png"/>
      </a>
 </p>
