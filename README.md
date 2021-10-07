@@ -1,7 +1,7 @@
 <h2 align="center">Stats</h2>
 <a href="https://github.com/krzxw">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=krzxw" alt="Profile Views Count">
+    <img src="https://komarev.com/ghpvc/?username=wxrzone" alt="Profile Views Count">
   </p>
 </a>
 
@@ -11,8 +11,8 @@
      </a>
 </p>
 
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=krzxw&layout=compact&theme=dark) 
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=wxrzone&layout=compact&theme=dark) 
 </br>
-![stats](https://github-readme-stats.vercel.app/api?username=krzxw&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=wxrzone&show_icons=true&theme=dark)
 
 </br>
