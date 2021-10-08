@@ -4,8 +4,4 @@
      </a>
 </p>
 
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=wxrzone&layout=compact&theme=dark) 
-</br>
-![stats](https://github-readme-stats.vercel.app/api?username=wxrzone&show_icons=true&theme=dark)
-
-</br>
+Hello
