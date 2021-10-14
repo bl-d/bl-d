@@ -3,5 +3,3 @@
     <img src="https://discord.c99.nl/widget/theme-1/808860677661523988.png"/>
      </a>
 </p>
-
-discord.gg/selfie
