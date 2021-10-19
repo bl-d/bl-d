@@ -3,7 +3,7 @@
   <a href="http://discord.com">
     <img src="https://discord.c99.nl/widget/theme-1/808860677661523988.png"/>
     
-    <li><p> Discord - warzone#0001 | https://discord.gg/msqXsTNB3D
+    # Discord - warzone#0001 | https://discord.gg/msqXsTNB3D
      
      </a>
 </p>
